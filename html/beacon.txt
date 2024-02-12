@@ -1,0 +1,2 @@
+#FORMAT: BEACON
+#NAME:TEI to HTML Cookiecutter Yiddish Newspaper
